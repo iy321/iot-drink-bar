@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ドリンクの番人</string>
+    <string name="flavor">フレーバー</string>
+    <string name="pour">注ぐ</string>
+    <string name="default_drink_name">ドリンク</string>
+    <string name="register_drink_name">飲料の名前を登録</string>
+    <string name="mystery">？？？？</string>
+    <string name="large">多めに注ぐ</string>
+    <string name="emergency">緊急停止</string>
+    <string name="pour_dialog_time">ドリンクを注いでいます</string>
+    <string name="pour_dialog_wait">注ぎ終わるまでお待ちください</string>
+    <string name="mix12">1 と 2 をミックス</string>
+    <string name="mix23">2 と 3 をミックス</string>
+    <string name="mix31">3 と 1 をミックス</string>
+</resources>
